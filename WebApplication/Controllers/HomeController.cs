@@ -19,7 +19,6 @@ namespace WebApplication.Controllers
         {
             ViewData["Message"] = "application description page.";
 
-
             return View();
         }
 
